@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Methods_In_Class_With_Return\bin\Debug\net8.0\Methods_In_Class_With_Return.exe
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Methods_In_Class_With_Return\bin\Debug\net8.0\Methods_In_Class_With_Return.deps.json
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Methods_In_Class_With_Return\bin\Debug\net8.0\Methods_In_Class_With_Return.runtimeconfig.json
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Methods_In_Class_With_Return\bin\Debug\net8.0\Methods_In_Class_With_Return.dll
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Methods_In_Class_With_Return\bin\Debug\net8.0\Methods_In_Class_With_Return.pdb
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Methods_In_Class_With_Return\obj\Debug\net8.0\Methods_In_Class_With_Return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Methods_In_Class_With_Return\obj\Debug\net8.0\Methods_In_Class_With_Return.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Methods_In_Class_With_Return\obj\Debug\net8.0\Methods_In_Class_With_Return.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Methods_In_Class_With_Return\obj\Debug\net8.0\Methods_In_Class_With_Return.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Methods_In_Class_With_Return\obj\Debug\net8.0\Methods_In_Class_With_Return.dll
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Methods_In_Class_With_Return\obj\Debug\net8.0\refint\Methods_In_Class_With_Return.dll
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Methods_In_Class_With_Return\obj\Debug\net8.0\Methods_In_Class_With_Return.pdb
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Methods_In_Class_With_Return\obj\Debug\net8.0\Methods_In_Class_With_Return.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Methods_In_Class_With_Return\obj\Debug\net8.0\ref\Methods_In_Class_With_Return.dll

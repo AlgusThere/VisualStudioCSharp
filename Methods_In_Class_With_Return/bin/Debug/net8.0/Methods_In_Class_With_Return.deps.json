@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Methods_In_Class_With_Return/1.0.0": {
+        "runtime": {
+          "Methods_In_Class_With_Return.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Methods_In_Class_With_Return/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
