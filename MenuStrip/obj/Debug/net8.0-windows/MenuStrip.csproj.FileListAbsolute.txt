@@ -1,0 +1,17 @@
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\bin\Debug\net8.0-windows\MenuStrip.exe
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\bin\Debug\net8.0-windows\MenuStrip.deps.json
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\bin\Debug\net8.0-windows\MenuStrip.runtimeconfig.json
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\bin\Debug\net8.0-windows\MenuStrip.dll
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\bin\Debug\net8.0-windows\MenuStrip.pdb
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\obj\Debug\net8.0-windows\MenuStrip.Form1.resources
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\obj\Debug\net8.0-windows\MenuStrip.csproj.GenerateResource.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\obj\Debug\net8.0-windows\MenuStrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\obj\Debug\net8.0-windows\MenuStrip.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\obj\Debug\net8.0-windows\MenuStrip.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\obj\Debug\net8.0-windows\MenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\obj\Debug\net8.0-windows\MenuStrip.sourcelink.json
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\obj\Debug\net8.0-windows\MenuStrip.dll
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\obj\Debug\net8.0-windows\refint\MenuStrip.dll
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\obj\Debug\net8.0-windows\MenuStrip.pdb
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\obj\Debug\net8.0-windows\MenuStrip.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\MenuStrip\obj\Debug\net8.0-windows\ref\MenuStrip.dll
