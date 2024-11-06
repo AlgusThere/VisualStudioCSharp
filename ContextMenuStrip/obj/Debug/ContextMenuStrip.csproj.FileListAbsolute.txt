@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ContextMenuStrip\bin\Debug\ContextMenuStrip.exe.config
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ContextMenuStrip\bin\Debug\ContextMenuStrip.exe
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ContextMenuStrip\bin\Debug\ContextMenuStrip.pdb
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ContextMenuStrip\obj\Debug\ContextMenuStrip.Form1.resources
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ContextMenuStrip\obj\Debug\ContextMenuStrip.Properties.Resources.resources
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.GenerateResource.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ContextMenuStrip\obj\Debug\ContextMenuStrip.exe
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ContextMenuStrip\obj\Debug\ContextMenuStrip.pdb
