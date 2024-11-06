@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\ConstructorMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6316259F-B4D8-448D-A8BA-1A1F552C29AE}|ConstructorMethods.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\constructormethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6316259F-B4D8-448D-A8BA-1A1F552C29AE}|ConstructorMethods.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6316259F-B4D8-448D-A8BA-1A1F552C29AE}|ConstructorMethods.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\constructormethods\\bilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6316259F-B4D8-448D-A8BA-1A1F552C29AE}|ConstructorMethods.csproj|solutionrelative:bilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bilgi.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\ConstructorMethods\\Bilgi.cs",
+              "RelativeDocumentMoniker": "Bilgi.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\ConstructorMethods\\Bilgi.cs",
+              "RelativeToolTip": "Bilgi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:21:13.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\ConstructorMethods\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\ConstructorMethods\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:15:58.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

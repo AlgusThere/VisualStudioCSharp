@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\bin\Debug\net8.0\ConstructorMethods.exe
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\bin\Debug\net8.0\ConstructorMethods.deps.json
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\bin\Debug\net8.0\ConstructorMethods.runtimeconfig.json
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\bin\Debug\net8.0\ConstructorMethods.dll
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\bin\Debug\net8.0\ConstructorMethods.pdb
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\obj\Debug\net8.0\ConstructorMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\obj\Debug\net8.0\ConstructorMethods.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\obj\Debug\net8.0\ConstructorMethods.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\obj\Debug\net8.0\ConstructorMethods.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\obj\Debug\net8.0\ConstructorMethods.sourcelink.json
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\obj\Debug\net8.0\ConstructorMethods.dll
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\obj\Debug\net8.0\refint\ConstructorMethods.dll
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\obj\Debug\net8.0\ConstructorMethods.pdb
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\obj\Debug\net8.0\ConstructorMethods.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\ConstructorMethods\obj\Debug\net8.0\ref\ConstructorMethods.dll

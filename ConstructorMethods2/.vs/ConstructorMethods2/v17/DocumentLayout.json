@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\ConstructorMethods2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3986E191-88A4-449E-9107-2C2B67C5FC98}|ConstructorMethods2.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\constructormethods2\\kimlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3986E191-88A4-449E-9107-2C2B67C5FC98}|ConstructorMethods2.csproj|solutionrelative:kimlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3986E191-88A4-449E-9107-2C2B67C5FC98}|ConstructorMethods2.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\constructormethods2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3986E191-88A4-449E-9107-2C2B67C5FC98}|ConstructorMethods2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kimlik.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\ConstructorMethods2\\Kimlik.cs",
+              "RelativeDocumentMoniker": "Kimlik.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\ConstructorMethods2\\Kimlik.cs",
+              "RelativeToolTip": "Kimlik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:42:13.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\ConstructorMethods2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\ConstructorMethods2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:42:03.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
