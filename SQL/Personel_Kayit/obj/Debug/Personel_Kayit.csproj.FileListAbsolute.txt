@@ -1,0 +1,11 @@
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\SQL\Personel_Kayit\bin\Debug\Personel_Kayit.exe.config
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\SQL\Personel_Kayit\bin\Debug\Personel_Kayit.exe
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\SQL\Personel_Kayit\bin\Debug\Personel_Kayit.pdb
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\SQL\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\SQL\Personel_Kayit\obj\Debug\Personel_Kayit.Form1.resources
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\SQL\Personel_Kayit\obj\Debug\Personel_Kayit.Properties.Resources.resources
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\SQL\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.GenerateResource.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\SQL\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\SQL\Personel_Kayit\obj\Debug\Personel_Kayit.exe
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\SQL\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\SQL\Personel_Kayit\obj\Debug\Personel_Kayit.Frmistatistik.resources
