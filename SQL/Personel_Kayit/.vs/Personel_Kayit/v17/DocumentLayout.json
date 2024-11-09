@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\sql\\personel_kayit\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|solutionrelative:frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\sql\\personel_kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\sql\\personel_kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|solutionrelative:frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\sql\\personel_kayit\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|solutionrelative:frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\sql\\personel_kayit\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|solutionrelative:frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\sql\\personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|solutionrelative:frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\sql\\personel_kayit\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|solutionrelative:frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\sql\\personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|solutionrelative:frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\sql\\personel_kayit\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|solutionrelative:frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\sql\\personel_kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58821D78-6DEB-45D6-A37C-FF69CD582CC4}|Personel_Kayit.csproj|solutionrelative:frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +42,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "FrmGiris.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "FrmGiris.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\FrmGiris.cs",
+              "RelativeToolTip": "FrmGiris.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:14:32.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "FrmGiris.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\FrmGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:05:08.326Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmGrafikler.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\FrmGrafikler.cs",
+              "RelativeToolTip": "FrmGrafikler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:06:44.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmGrafikler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\FrmGrafikler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmGrafikler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:02:15.453Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Frmistatistik.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\Frmistatistik.cs",
               "RelativeDocumentMoniker": "Frmistatistik.cs",
               "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\Frmistatistik.cs",
               "RelativeToolTip": "Frmistatistik.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBsAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T16:45:58.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Frmistatistik.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\Frmistatistik.cs",
               "RelativeDocumentMoniker": "Frmistatistik.cs",
               "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\Frmistatistik.cs [Tasar\u0131m]",
               "RelativeToolTip": "Frmistatistik.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T16:40:05.974Z",
+              "WhenOpened": "2024-11-09T10:23:37.069Z",
               "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FrmAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\FrmAnaForm.cs",
+              "RelativeToolTip": "FrmAnaForm.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T07:52:57.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "DocumentIndex": 7,
+              "Title": "FrmAnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\SQL\\Personel_Kayit\\FrmAnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmAnaForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T08:34:35.722Z",
               "EditorCaption": " [Tasar\u0131m]"

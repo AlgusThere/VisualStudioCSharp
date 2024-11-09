@@ -1,6 +1,6 @@
 ﻿namespace Personel_Kayit
 {
-    partial class Form1
+    partial class FrmAnaForm
     {
         /// <summary>
         ///Gerekli tasarımcı değişkeni.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmAnaForm));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
@@ -264,6 +264,7 @@
             this.BtnGrafik.TabIndex = 6;
             this.BtnGrafik.Text = "Grafikler";
             this.BtnGrafik.UseVisualStyleBackColor = true;
+            this.BtnGrafik.Click += new System.EventHandler(this.BtnGrafik_Click);
             // 
             // Btnİstatistik
             // 
@@ -433,7 +434,7 @@
             this.label8.Text = "label8";
             this.label8.TextChanged += new System.EventHandler(this.label8_TextChanged);
             // 
-            // Form1
+            // FrmAnaForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -445,7 +446,7 @@
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Font = new System.Drawing.Font("Corbel", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.Name = "Form1";
+            this.Name = "FrmAnaForm";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
