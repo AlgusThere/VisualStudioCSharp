@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Captcha\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25A2674B-2868-4B77-83F6-78771CE595C8}|Captcha.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\captcha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25A2674B-2868-4B77-83F6-78771CE595C8}|Captcha.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{25A2674B-2868-4B77-83F6-78771CE595C8}|Captcha.csproj|C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Captcha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A2674B-2868-4B77-83F6-78771CE595C8}|Captcha.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25A2674B-2868-4B77-83F6-78771CE595C8}|Captcha.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\captcha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25A2674B-2868-4B77-83F6-78771CE595C8}|Captcha.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25A2674B-2868-4B77-83F6-78771CE595C8}|Captcha.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\captcha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25A2674B-2868-4B77-83F6-78771CE595C8}|Captcha.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Captcha\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Captcha\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
