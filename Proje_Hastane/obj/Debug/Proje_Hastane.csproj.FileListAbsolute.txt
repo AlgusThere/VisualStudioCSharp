@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Proje_Hastane\obj\Debug\Proje_Hastane.Form1.resources
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\pc\Documents\GitHub Projects\VisualStudioCSharp\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
