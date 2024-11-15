@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\proje_hastane\\frmrandevulistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmrandevulistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\proje_hastane\\frmbrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmbrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\proje_hastane\\frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\proje_hastane\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\proje_hastane\\frmdoktorbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmdoktorbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\proje_hastane\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\proje_hastane\\frmsekretergiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmsekretergiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\proje_hastane\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\proje_hastane\\frmbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\proje_hastane\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\proje_hastane\\frmgirisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmgirisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\proje_hastane\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|c:\\users\\pc\\documents\\github projects\\visualstudiocsharp\\proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\frmgirisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46A023B8-D6DD-4CCE-8F1C-08B647EC88A1}|Proje_Hastane.csproj|solutionrelative:frmgirisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +71,126 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FrmRandevuListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmRandevuListesi.cs",
+              "RelativeDocumentMoniker": "FrmRandevuListesi.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmRandevuListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmRandevuListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:34:11.762Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBrans.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmBrans.cs",
+              "RelativeDocumentMoniker": "FrmBrans.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmBrans.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmBrans.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:31:53.341Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmDoktorPaneli.cs",
+              "RelativeDocumentMoniker": "FrmDoktorPaneli.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:26:39.606Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSekreterDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmSekreterDetay.cs",
+              "RelativeDocumentMoniker": "FrmSekreterDetay.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmSekreterDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmSekreterDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:13:48.564Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmSekreterGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmSekreterGiris.cs",
+              "RelativeDocumentMoniker": "FrmSekreterGiris.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmSekreterGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmSekreterGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:12:48.753Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDuyurular.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmDuyurular.cs",
+              "RelativeDocumentMoniker": "FrmDuyurular.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmDuyurular.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmDuyurular.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:11:45.044Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmDoktorBilgiDuzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "RelativeDocumentMoniker": "FrmDoktorBilgiDuzenle.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmDoktorBilgiDuzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:09:13.578Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmDoktorDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeDocumentMoniker": "FrmDoktorDetay.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmDoktorDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmDoktorDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:01:08.112Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmDoktorGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmDoktorGiris.cs",
+              "RelativeDocumentMoniker": "FrmDoktorGiris.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmDoktorGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmDoktorGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:59:17.436Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmBilgiDuzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmBilgiDuzenle.cs",
+              "RelativeDocumentMoniker": "FrmBilgiDuzenle.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmBilgiDuzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmBilgiDuzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:55:29.593Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "FrmHastaDetay.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmHastaDetay.cs",
               "RelativeDocumentMoniker": "FrmHastaDetay.cs",
@@ -42,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "FrmHastaKayit.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmHastaKayit.cs",
               "RelativeDocumentMoniker": "FrmHastaKayit.cs",
@@ -54,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "FrmHastaGiris.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmHastaGiris.cs",
               "RelativeDocumentMoniker": "FrmHastaGiris.cs",
@@ -66,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "FrmGirisler.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub Projects\\VisualStudioCSharp\\Proje_Hastane\\FrmGirisler.cs",
               "RelativeDocumentMoniker": "FrmGirisler.cs",
